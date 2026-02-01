@@ -1,0 +1,12 @@
+import numpy as np
+arr = np.arange(1,9).reshape(4,2)
+print(arr)
+print(np.max(arr))
+print(np.min(arr))
+print(np.mean(arr))
+print(np.median(arr))
+print(np.std(arr))
+print(np.var(arr))
+print(np.sum(arr))
+print(np.prod(arr))
+print(np.x)

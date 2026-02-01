@@ -1,0 +1,4 @@
+Roses are red,
+Violets are blue,
+python is fun,
+And so are you

@@ -1,0 +1,1 @@
+print([x for x in 'python' if x in"aeiou"])
